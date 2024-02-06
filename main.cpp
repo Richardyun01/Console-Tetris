@@ -31,7 +31,7 @@ int main()
 
     switch (select) {
     case 1:
-        m.clear_screen();    //clear screen
+        m.clear_screen();   //clear screen
         m.init_draw_main(); //initialize board
 
         m.start();          //start game;
